@@ -1,5 +1,5 @@
 import React, {useEffect, useState} from 'react'
-
+import './style.css'
 
 // https://sujeitoprogramador.com/rn-api/?api=posts
 
